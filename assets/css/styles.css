@@ -1,0 +1,19 @@
+#color-actual{
+    color: white;
+    background-color: black;
+    padding: 2rem;
+    display: inline-block;
+}
+.boton{
+    padding: 1rem 3rem;
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+}
+.cambiador{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
